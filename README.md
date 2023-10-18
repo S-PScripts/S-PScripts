@@ -1,2 +1,2 @@
-That Lua exploiter
-Check out my chromebook-utilities repo!
+That Lua exploiter <br>
+Check out my chromebook-utilities repo! <br>
