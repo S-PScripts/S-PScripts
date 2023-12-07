@@ -15,7 +15,8 @@
     "lua-scripts": "some lua scripts i've made",
     "techls-fork": "a fork of Tech's collection of his Kohls Admin House scripts - i modified some"
   },
-  "News: Check out my repos! :D"
+
+  "News": "Check out my repos! :D"
 }
 ```
 
