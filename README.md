@@ -6,7 +6,7 @@
     "Roblox: ScriptingProgrammer",
     "Discord: ts2021",
     "Youtube: TS2021_ME",
-    "Fandom: "TS2021"
+    "Fandom: TS2021"
   },
 
   "Repos": {
