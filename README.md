@@ -6,10 +6,10 @@
     "Roblox: ScriptingProgrammer",
     "Discord: ts2021",
     "Youtube: TS2021_ME",
-    "Fandom": "TS2021"
+    "Fandom: "TS2021"
   },
 
-  "Repos:" {
+  "Repos": {
     "chromebook-utilities | a collection of proxies, games, hubs, movies + more!",
     "kah-fork | a fork of Damix's collection of Kohls Admin House scripts - i changed the titles for some",
     "lua-scripts | some lua scripts i've made",
