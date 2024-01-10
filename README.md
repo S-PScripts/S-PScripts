@@ -16,7 +16,7 @@
     "techls-fork": "a fork of Tech's collection of his Kohls Admin House scripts - i modified some"
   },
 
-  "News": "Check out my repos! :D"
+  "News": "I'm unblocked!!! :D"
 }
 ```
 
