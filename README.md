@@ -7,7 +7,7 @@
     "Discord": "ts2021",
     "Youtube": "TS2021_ME",
     "Fandom": "TS2021",
-    "Everything else: https://lhub.to/ts2021
+    "Everything else": "https://lhub.to/ts2021"
   },
 
   "Repos": {
