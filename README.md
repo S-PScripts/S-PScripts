@@ -6,17 +6,18 @@
     "Roblox": "ScriptingProgrammer",
     "Discord": "ts2021",
     "Youtube": "TS2021_ME",
-    "Fandom": "TS2021"
+    "Fandom": "TS2021",
+    "Everything else: https://lhub.to/ts2021
   },
 
   "Repos": {
-    "chromebook-utilities": "a collection of proxies, games, hubs, movies + more!",
+    "chromebook-utilities": "a collection of exploits, games, hubs, movies + more!",
     "kah-fork": "a fork of Damix's collection of Kohls Admin House scripts - i changed the titles for some",
-    "lua-scripts": "some lua scripts i've made",
+    "scripts": "some scripts i've made",
     "techls-fork": "a fork of Tech's collection of his Kohls Admin House scripts - i modified some"
   },
 
-  "News": "I'm unblocked!!! :D"
+  "News": "None!"
 }
 ```
 
