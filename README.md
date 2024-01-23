@@ -12,7 +12,7 @@
 
   "Repos": {
     "chromebook-utilities": "a collection of exploits, games, hubs, movies + more!",
-    "kah-fork": "a fork of Damix's collection of Kohls Admin House scripts - i changed the titles for some",
+    "s-pscripts.github.io": "a website i'm making on github pages!",
     "scripts": "some scripts i've made",
     "techls-fork": "a fork of Tech's collection of his Kohls Admin House scripts - i modified some"
   },
