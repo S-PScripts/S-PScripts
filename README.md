@@ -17,6 +17,10 @@
     "techls-fork": "a fork of Tech's collection of his Kohls Admin House scripts - i modified some"
   },
 
+  "Facts": {
+    "i'm a fast typer - i can get my wpm to be around 90-100 with 98% accuracy"
+  },
+
   "News": "None!"
 }
 ```
