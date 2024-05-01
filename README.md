@@ -1,8 +1,10 @@
-```json
-{
- "Welcome to my profile!",
+```lua
+local information =
 
- "Socials": {
+{
+ welcome = "Welcome to my profile!",
+
+ socials = {
     "Roblox": "ScriptingProgrammer",
     "Discord": "ts2021x",
     "Youtube": "TS2021_ME",
@@ -10,13 +12,13 @@
     "Everything else": "https://lhub.to/ts2021"
   },
 
-  "Repos": {
+  repos = {
     "chromebook-utilities": "a collection of exploits, games, hubs, movies + more!",
     "s-pscripts.github.io": "a website i'm making on github pages!",
     "scripts": "some scripts i've made",
   },
 
-  "Facts": {
+  facts = {
     "i'm a fast typer - i can get my wpm to be around 90-100 with 98% accuracy"
   },
 
