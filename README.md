@@ -18,7 +18,7 @@ local information =
   repos = {
     ["chromebook-utilities"] = "a collection of exploits, games, hubs, movies + more!",
     ["s-pscripts.github.io"] = "a website i'm making on github pages!",
-    ["scripts"] = "some scripts i've made",
+    ["scripts"] = "some scripts i've made (such as kohlslite)",
   },
 
   facts = {
