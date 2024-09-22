@@ -9,7 +9,7 @@ local information =
 
  socials = {
     ["Roblox"] = "ScriptingProgrammer",
-    ["Discord"] = "ts2021x",
+    ["Discord"] = "ts2021",
     ["Youtube"] = "TS2021_ME",
     ["Fandom"] = "TS2021",
     ["Everything else"] = "https://lhub.to/ts2021"
