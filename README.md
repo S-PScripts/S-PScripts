@@ -17,6 +17,7 @@ local information =
 
   repos = {
     ["chromebook-utilities"] = "a collection of cheats, exploits, gxmes, hubs, movies, prxes and more",
+                               "https://s-pscripts.github.io/chromebook-utilities",
 
     ["kah-fork"] = "damix's collection of kah scripts backup with scripts renamed too",
 
@@ -24,7 +25,6 @@ local information =
                                "https://s-pscripts.github.io/",
 
     ["scripts"] = "some scripts i've made (such as kohlslite)",
-                  "https://s-pscripts.github.io/scripts",
 
     ["myviewboard-exploit"] = "The myViewBoard WhiteBoard exploit, the all new webview",
                               "https://s-pscripts.github.io/myviewboard-exploit/",
