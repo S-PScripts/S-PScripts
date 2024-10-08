@@ -17,15 +17,32 @@ local information =
 
   repos = {
     ["chromebook-utilities"] = "a collection of cheats, exploits, gxmes, hubs, movies, prxes and more",
+
     ["kah-fork"] = "damix's collection of kah scripts backup with scripts renamed too",
+
     ["s-pscripts.github.io"] = "a website i'm making on github pages!",
+                               "https://s-pscripts.github.io/",
+
     ["scripts"] = "some scripts i've made (such as kohlslite)",
+                  "https://s-pscripts.github.io/scripts",
+
     ["myviewboard-exploit"] = "The myViewBoard WhiteBoard exploit, the all new webview",
+                              "https://s-pscripts.github.io/myviewboard-exploit/",
+
     ["asr-exploit"] = "The ASR exploit, the all new webview",
+                      "https://s-pscripts.github.io/asr-exploit/",
+
     ["ee-exploit"] = "chrome://sign-in webview with 'This account is not allowed to sign in within this network' ",
+                     "https://s-pscripts.github.io/ee-exploit/",
+
     ["incognito-rises"] = "v128+ incognito",
+                          "https://s-pscripts.github.io/incognito-rises/",
+
     ["incognito-v123"] = "the writeup for the incognito exploit for v123 to v127",
-    ["classroom.cloud-exploit"] = "the exploit to bypass the classroom.cloud (NetSupport) spyware"
+                         "https://s-pscripts.github.io/incognito-v123/",
+
+    ["classroom.cloud-exploit"] = "the exploit to bypass the classroom.cloud (NetSupport) spyware",
+                                  "https://s-pscripts.github.io/classroom.cloud-exploit/"
   },
 
   facts = {
