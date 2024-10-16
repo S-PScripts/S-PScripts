@@ -35,8 +35,8 @@ local information =
     ["ee-exploit"] = "chrome://sign-in webview with 'This account is not allowed to sign in within this network' ",
                      "https://s-pscripts.github.io/ee-exploit/",
 
-    ["incognito-rises"] = "v128 incognito",
-                          "https://s-pscripts.github.io/incognito-rises/",
+    ["incognito-v128"] = "v128 incognito",
+                          "https://s-pscripts.github.io/incognito-v128/",
 
     ["incognito-v123"] = "the writeup for the incognito exploit for v123 to v127",
                          "https://s-pscripts.github.io/incognito-v123/",
