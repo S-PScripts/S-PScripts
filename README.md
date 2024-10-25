@@ -25,6 +25,7 @@ local information =
                                "https://s-pscripts.github.io/",
 
     ["scripts"] = "some scripts i've made (such as kohlslite)",
+                                "kohlslite.pages.dev/source",
 
     ["myviewboard-exploit"] = "The myViewBoard WhiteBoard exploit, the all new webview",
                               "https://s-pscripts.github.io/myviewboard-exploit/",
@@ -34,6 +35,9 @@ local information =
 
     ["ee-exploit"] = "chrome://sign-in webview with 'This account is not allowed to sign in within this network' ",
                      "https://s-pscripts.github.io/ee-exploit/",
+
+    ["locked-mode-x"] = "A bypass for Google's locked mode",
+                         "https://s-pscripts.github.io/locked-mode-x/",
 
     ["incognito-v128"] = "v128 incognito",
                           "https://s-pscripts.github.io/incognito-v128/",
