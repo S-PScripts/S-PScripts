@@ -24,8 +24,8 @@ local information =
     ["s-pscripts.github.io"] = "a website i'm making on github pages!",
                                "https://s-pscripts.github.io/",
 
-    ["scripts"] = "some scripts i've made (such as kohlslite)",
-                                "kohlslite.pages.dev/source",
+    ["kohlslite"] = "kohlslite script for Kohls Admin House",
+                                "kohlslite.pages.dev/source.lua",
 
     ["myviewboard-exploit"] = "The myViewBoard WhiteBoard exploit, the all new webview",
                               "https://s-pscripts.github.io/myviewboard-exploit/",
