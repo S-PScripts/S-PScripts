@@ -20,6 +20,7 @@ local information =
                                "https://s-pscripts.github.io/chromebook-utilities",
 
     ["kah-fork"] = "damix's collection of kah scripts backup with scripts renamed too",
+                   "https://github.com/s-pscripts/kah-fork"
 
     ["s-pscripts.github.io"] = "a website i'm making on github pages!",
                                "https://s-pscripts.github.io/",
