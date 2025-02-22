@@ -18,9 +18,10 @@ local information =
   repos = {
     ["chromebook-utilities"] = "a collection of cheats, exploits, gxmes, hubs, movies, prxes and more",
                                "https://s-pscripts.github.io/chromebook-utilities",
+                               "No longer maintained",
 
     ["kah-fork"] = "damix's collection of kah scripts backup with scripts renamed too",
-                   "https://github.com/s-pscripts/kah-fork"
+                   "https://github.com/s-pscripts/kah-fork",
 
     ["s-pscripts.github.io"] = "a website i'm making on github pages!",
                                "https://s-pscripts.github.io/",
