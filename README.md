@@ -22,7 +22,7 @@ local information =
 
     ["kohlslite"] = "kohlslite script for Kohls Admin House",
                                 "kohlslite.pages.dev/source.lua",
-                                ""No longer maintained",
+                                "No longer maintained",
 
     ["kah-fork"] = "damix's collection of kah scripts backup with scripts renamed too",
                    "https://github.com/s-pscripts/kah-fork",
