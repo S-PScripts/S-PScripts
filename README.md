@@ -53,7 +53,7 @@ local information =
   },
 
   facts = {
-    "I'm a fast typer - I can get my wpm to be around 90-100 with 98% accuracy"
+    "I'm a fast typer - I can get my wpm to be around 100-110 with 98% accuracy"
   },
 
   news = "None!"
