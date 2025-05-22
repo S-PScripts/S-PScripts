@@ -9,10 +9,10 @@ local information =
 
  socials = {
     ["Discord"] = "ts2021",
-    ["Roblox"] = "ScriptingProgrammer",
+    ["Reddit"] = "Anxious_Librarian379",
     ["Youtube"] = "TS2021_ME",
+    ["Roblox"] = "ScriptingProgrammer",
     ["Fandom"] = "TS2021",
-    ["Everything else"] = "https://lhub.to/ts2021"
   },
 
   repos = {
