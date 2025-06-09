@@ -16,47 +16,40 @@ local information =
   },
 
   repos = {
-    ["chromebook-utilities"] = "a collection of cheats, exploits, gxmes, hubs, movies, prxes and more",
+    ["chromebook-utilities"] = "No longer maintained - a collection of cheats, exploits, gxmes, hubs, movies, prxes and more",
                                "https://s-pscripts.github.io/chromebook-utilities",
-                               "No longer maintained",
 
-    ["kohlslite"] = "kohlslite script for Kohls Admin House",
+    ["kohlslite"] = "No longer maintained - exploit script for Kohls Admin House",
                                 "kohlslite.pages.dev/source.lua",
-                                "No longer maintained",
-
-    ["kah-fork"] = "damix's collection of kah scripts backup with scripts renamed too",
-                   "https://github.com/s-pscripts/kah-fork",
 
     ["s-pscripts.github.io"] = "a website I'm making on GitHub pages!",
                                "https://s-pscripts.github.io/",
 
-    ["myviewboard-exploit"] = "Webview with myViewBoard WhiteBoard",
+    ["myviewboard-exploit"] = "Archived - Webview with myViewBoard WhiteBoard",
                               "https://s-pscripts.github.io/myviewboard-exploit/",
 
-    ["asr-exploit"] = "Webview with ASR",
+    ["asr-exploit"] = "Archived - Webview with ASR",
                       "https://s-pscripts.github.io/asr-exploit/",
 
-    ["ee-exploit"] = "chrome://sign-in webview with 'This account is not allowed to sign in within this network' ",
+    ["ee-exploit"] = "Archived - chrome://sign-in webview with 'This account is not allowed to sign in within this network' ",
                      "https://s-pscripts.github.io/ee-exploit/",
 
-    ["locked-mode-x"] = "A bypass for Google's locked mode",
+    ["locked-mode-x"] = "Archived - A bypass for Google's locked mode",
                          "https://s-pscripts.github.io/locked-mode-x/",
 
-    ["incognito-v123"] = "the writeup for the incognito exploit for v123 to v127",
+    ["incognito-v123"] = "Archived - the writeup for the incognito exploit for v123 to v127",
                          "https://s-pscripts.github.io/incognito-v123/",
 
-    ["incognito-v128"] = "v128 'incognito'",
+    ["incognito-v128"] = "Archived - v128 'incognito'",
                           "https://s-pscripts.github.io/incognito-v128/",
 
-    ["classroom.cloud-exploit"] = "the exploit to bypass the classroom.cloud (NetSupport) spyware",
-                                  "https://s-pscripts.github.io/classroom.cloud-exploit/"
+    ["classroom.cloud-exploit"] = "Archived - the exploit to bypass the classroom.cloud (NetSupport) spyware",
+                                  "https://s-pscripts.github.io/classroom.cloud-exploit/",
+
+    ["kah-fork"] = "damix's collection of kah scripts backup with scripts renamed too",
+                   "https://github.com/s-pscripts/kah-fork",
   },
 
-  facts = {
-    "I'm a fast typer - I can get my wpm to be around 100-110 with 98% accuracy"
-  },
-
-  news = "None!"
 }
 
 ```
