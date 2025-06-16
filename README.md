@@ -6,6 +6,7 @@ local information =
 
 {
  welcome = "Welcome to my profile!",
+ notice = "I will be rather inactive on GitHub from now on. Maybe I'll come back and make some more projects, but for now, goodbye.",
 
  socials = {
     ["Discord"] = "ts2021",
@@ -19,11 +20,11 @@ local information =
     ["chromebook-utilities"] = "No longer maintained - a collection of cheats, exploits, gxmes, hubs, movies, prxes and more",
                                "https://s-pscripts.github.io/chromebook-utilities",
 
-    ["kohlslite"] = "No longer maintained - exploit script for Kohls Admin House",
+    ["kohlslite"] = "Archived - exploit script for Kohls Admin House",
                                 "kohlslite.pages.dev/source.lua",
 
-    ["s-pscripts.github.io"] = "a website I'm making on GitHub pages!",
-                               "https://s-pscripts.github.io/",
+    ["s-pscripts.github.io"] = "my website I guess",
+                               "https://reals-p.site",
 
     ["myviewboard-exploit"] = "Archived - Webview with myViewBoard WhiteBoard",
                               "https://s-pscripts.github.io/myviewboard-exploit/",
@@ -46,7 +47,7 @@ local information =
     ["classroom.cloud-exploit"] = "Archived - the exploit to bypass the classroom.cloud (NetSupport) spyware",
                                   "https://s-pscripts.github.io/classroom.cloud-exploit/",
 
-    ["kah-fork"] = "damix's collection of kah scripts backup with scripts renamed too",
+    ["kah-fork"] = "Archived - damix's collection of kah scripts backup with scripts renamed too",
                    "https://github.com/s-pscripts/kah-fork",
   },
 
