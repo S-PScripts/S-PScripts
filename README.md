@@ -6,7 +6,7 @@ local information =
 
 {
  welcome = "Welcome to my profile!",
- notice = "I will be rather inactive on GitHub from now on. Maybe I'll come back and make some more projects, but for now, goodbye.",
+ notice = "I will be rather inactive on GitHub from now on. I'll probably still do random stuff though.",
 
  socials = {
     ["Discord"] = "ts2021",
