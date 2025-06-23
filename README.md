@@ -7,6 +7,7 @@ local information =
 {
  welcome = "Welcome to my profile!",
  notice = "I will be rather inactive on GitHub from now on. I'll probably still do random stuff though.",
+ notice = "I'm not proud of this account. I may make another one later on in time.",
 
  socials = {
     ["Discord"] = "ts2021",
@@ -20,7 +21,7 @@ local information =
     ["chromebook-utilities"] = "No longer maintained - a collection of cheats, exploits, gxmes, hubs, movies, prxes and more",
                                "https://s-pscripts.github.io/chromebook-utilities",
 
-    ["kohlslite"] = "Archived - exploit script for Kohls Admin House",
+    ["kohlslite"] = "Discontinued - exploit script for Kohls Admin House",
                                 "kohlslite.pages.dev/source.lua",
 
     ["s-pscripts.github.io"] = "my website I guess",
