@@ -46,7 +46,7 @@ local information =
     ["classroom.cloud-exploit"] = "Archived - the exploit to bypass the classroom.cloud (NetSupport) spyware",
                                   "https://s-pscripts.github.io/classroom.cloud-exploit/",
 
-    ["kah-fork"] = "Archived - damix's collection of kah scripts backup with scripts renamed too",
+    ["kah-fork"] = "Archived - damix's collection of KAH scripts backup with scripts renamed too",
                    "https://github.com/s-pscripts/kah-fork",
   },
 
